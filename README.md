@@ -2,7 +2,6 @@
 - 👀 I’m interested in DESİGNER AND DEVELOPER
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me file:///C:/Users/Administrator/Desktop/Yeni%20klas%C3%B6r/index.html
 
 
 <!---
